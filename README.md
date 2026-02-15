@@ -1,6 +1,5 @@
 ## Hola, soy macarena nicole chanampa
 
----
 - 🏫Finalice la carrera de "Técnicatura en programación" en julio de 2025 en la UTN FRA.
 - 💻Realice proyectos útilizando lenguaje como: C#, Javascript, Python.
 - 🌱En 2026 voy a dar un paso más y estudiar "Licenciatura en Analisis de datos" en la UCABA.
